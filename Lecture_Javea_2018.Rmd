@@ -98,12 +98,12 @@ knitr::include_graphics("https://media.giphy.com/media/xT5LMAvRY92qUXj7dC/giphy.
 
 --
 
-* 129 samples. Majority still 'Western' (78%), but 'better than 'standard' social psychology.
+* 129 papers leading to 166 samples. Majority still 'Western' (78%), but 'better than 'standard' social psychology.
 
 ---
 ## Samples.
 
-```{r, out.width = "500px", echo=FALSE, fig.align='center'}
+```{r, out.width = "700px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("samples.png")
 ```
 
