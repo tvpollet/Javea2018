@@ -461,7 +461,7 @@ knitr::include_graphics("https://media.giphy.com/media/3L3SEE1rcsO1W/giphy.gif")
 
 --
 
-* It is not all doom and gloom, but we should do need to do better. (median sample size in meta-analysis on colour effects is 35 --> This translated to Cohen's _d_ of .8(!)).
+* It is not all doom and gloom, but we should _and_ do need to do better. (median sample size in meta-analysis on colour effects is 35 --> This translated to Cohen's _d_ of .8(!)).
 
 --
 
