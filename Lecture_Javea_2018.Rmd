@@ -1,5 +1,5 @@
 ---
-title: "The Good, The Bad, and the Ugly"
+title: "The Good, the Bad, and the Ugly"
 author: "Dr. Thomas Pollet, Northumbria University (thomas.pollet@northumbria.ac.uk)"
 date: "`r format(Sys.Date())` | [disclaimer](http://tvpollet.github.io/disclaimer)"
 output:
